@@ -137,7 +137,7 @@ After translating all messages you can send me the file and I'll integrate the t
 
 == Changelog ==
 
-= 4.7.14 =
+= 4.7.15 =
 * Initial release
 
 = 4.7.15 =
