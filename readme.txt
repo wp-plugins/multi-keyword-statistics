@@ -137,8 +137,8 @@ After translating all messages you can send me the file and I'll integrate the t
 
 == Changelog ==
 
-= 4.7.15 =
+= 4.7.14 =
 * Initial release
 
-= 4.7.15 =
+= 4.7.14 =
 * Small erros fixed with mozilla firefox
