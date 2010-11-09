@@ -26,7 +26,7 @@ msgstr ""
 msgid "&ndash; page"
 msgstr ""
 
-#: multi-keyword-statistics.php:814
+#: multi-keyword-statistics.php:815
 msgid "Language"
 msgstr ""
 
@@ -39,8 +39,8 @@ msgid "Show first"
 msgstr ""
 
 #: multi-keyword-statistics.php:847 multi-keyword-statistics.php:1069
-#: multi-keyword-statistics.php:1179 multi-keyword-statistics.php:1409
-#: multi-keyword-statistics.php:1472 multi-keyword-statistics.php:1457
+#: multi-keyword-statistics.php:1179 multi-keyword-statistics.php:1509
+#: multi-keyword-statistics.php:1572 multi-keyword-statistics.php:1557
 #: multi-keyword-statistics.php:1680 multi-keyword-statistics.php:1789
 msgid "Update"
 msgstr ""
@@ -49,7 +49,7 @@ msgstr ""
 msgid "Title"
 msgstr ""
 
-#: multi-keyword-statistics.php:866 multi-keyword-statistics.php:1141
+#: multi-keyword-statistics.php:866 multi-keyword-statistics.php:1151
 msgid "Keywords"
 msgstr ""
 
@@ -57,12 +57,12 @@ msgstr ""
 msgid "use generated keywords"
 msgstr ""
 
-#: multi-keyword-statistics.php:880 multi-keyword-statistics.php:1145
-#: multi-keyword-statistics.php:1454 multi-keyword-statistics.php:1463
+#: multi-keyword-statistics.php:880 multi-keyword-statistics.php:1155
+#: multi-keyword-statistics.php:1554 multi-keyword-statistics.php:1563
 msgid "Robots"
 msgstr ""
 
-#: multi-keyword-statistics.php:894 multi-keyword-statistics.php:1148
+#: multi-keyword-statistics.php:894 multi-keyword-statistics.php:1158
 #: multi-keyword-statistics.php:1195
 msgid "Description"
 msgstr ""
@@ -73,7 +73,7 @@ msgstr ""
 
 #: multi-keyword-statistics.php:917 multi-keyword-statistics.php:933
 #: multi-keyword-statistics.php:1302 multi-keyword-statistics.php:1310
-#: multi-keyword-statistics.php:1314
+#: multi-keyword-statistics.php:1315
 msgid "characters used"
 msgstr ""
 
@@ -96,11 +96,11 @@ msgid "Sitewide Meta"
 msgstr ""
 
 #: multi-keyword-statistics.php:991 multi-keyword-statistics.php:1052
-#: multi-keyword-statistics.php:1126 multi-keyword-statistics.php:1451
+#: multi-keyword-statistics.php:1126 multi-keyword-statistics.php:1551
 msgid "Aggregations Meta"
 msgstr ""
 
-#: multi-keyword-statistics.php:993 multi-keyword-statistics.php:1416
+#: multi-keyword-statistics.php:993 multi-keyword-statistics.php:1516
 msgid "Metadata Delivery"
 msgstr ""
 
@@ -126,7 +126,7 @@ msgid "titles"
 msgstr ""
 
 #: multi-keyword-statistics.php:1009 multi-keyword-statistics.php:1310
-#: multi-keyword-statistics.php:1434
+#: multi-keyword-statistics.php:1534
 msgid "keywords"
 msgstr ""
 
@@ -135,15 +135,15 @@ msgid "descriptions"
 msgstr ""
 
 #: multi-keyword-statistics.php:1043 multi-keyword-statistics.php:1121
-#: multi-keyword-statistics.php:1373 multi-keyword-statistics.php:1442
-#: multi-keyword-statistics.php:1411 multi-keyword-statistics.php:1604
+#: multi-keyword-statistics.php:1373 multi-keyword-statistics.php:1542
+#: multi-keyword-statistics.php:1511 multi-keyword-statistics.php:1604
 #: multi-keyword-statistics.php:1713
 msgid "Options saved."
 msgstr ""
 
 #: multi-keyword-statistics.php:1045 multi-keyword-statistics.php:1375
-#: multi-keyword-statistics.php:1444 multi-keyword-statistics.php:1413
-#: multi-keyword-statistics.php:1606 multi-keyword-statistics.php:1714
+#: multi-keyword-statistics.php:1544 multi-keyword-statistics.php:1513
+#: multi-keyword-statistics.php:1606 multi-keyword-statistics.php:1715
 msgid "Options not saved."
 msgstr ""
 
@@ -224,20 +224,20 @@ msgstr ""
 msgid "Metadata for"
 msgstr ""
 
-#: multi-keyword-statistics.php:1137 multi-keyword-statistics.php:1144
-#: multi-keyword-statistics.php:1141
+#: multi-keyword-statistics.php:1137 multi-keyword-statistics.php:1154
+#: multi-keyword-statistics.php:1151
 msgid "Preview:"
 msgstr ""
 
-#: multi-keyword-statistics.php:1147 multi-keyword-statistics.php:1160
+#: multi-keyword-statistics.php:1157 multi-keyword-statistics.php:1160
 msgid "default"
 msgstr ""
 
-#: multi-keyword-statistics.php:1148
+#: multi-keyword-statistics.php:1158
 msgid "index"
 msgstr ""
 
-#: multi-keyword-statistics.php:1149
+#: multi-keyword-statistics.php:1159
 msgid "noindex"
 msgstr ""
 
@@ -382,75 +382,75 @@ msgid ""
 "Activate this option to hide these fields."
 msgstr ""
 
-#: multi-keyword-statistics.php:1402
+#: multi-keyword-statistics.php:1502
 msgid "Hide fields authors can't change from admin"
 msgstr ""
 
-#: multi-keyword-statistics.php:1405
+#: multi-keyword-statistics.php:1505
 msgid ""
 "Hide the fields for admins too. This will save space in page-/post-edit if "
 "the statistics tool is used for checking the keyword densities only."
 msgstr ""
 
-#: multi-keyword-statistics.php:1447
+#: multi-keyword-statistics.php:1547
 msgid "Robots Default Settings"
 msgstr ""
 
-#: multi-keyword-statistics.php:1451
+#: multi-keyword-statistics.php:1551
 msgid ""
 "Here you can configure the default settings - index and follow - for the "
 "robots meta tag on content aggregations. These will be served for all "
 "aggregations that are not set to \"default\" at"
 msgstr ""
 
-#: multi-keyword-statistics.php:1451
+#: multi-keyword-statistics.php:1551
 msgid ""
 "configuation. You also can configure the settings for ODP, Yahoo! Directory "
 "and archiving (caching of your pages at search engines and archive.org) - "
 "ydir, odp and archive. These will be served with any page of your blog."
 msgstr ""
 
-#: multi-keyword-statistics.php:1452
+#: multi-keyword-statistics.php:1552
 msgid "Settings for Content Aggregations"
 msgstr ""
 
-#: multi-keyword-statistics.php:1456
+#: multi-keyword-statistics.php:1556
 msgid "allow robots to index aggregated content"
 msgstr ""
 
-#: multi-keyword-statistics.php:1457
+#: multi-keyword-statistics.php:1557
 msgid "allow robots to follow links in aggregated pages"
 msgstr ""
 
-#: multi-keyword-statistics.php:1458
+#: multi-keyword-statistics.php:1558
 msgid ""
 "This options can be used to manipulate the robots meta tag in all kinds of "
 "content-aggregations (category-, tag-, archive-, author- and post-lists)."
 msgstr ""
 
-#: multi-keyword-statistics.php:1461
+#: multi-keyword-statistics.php:1561
 msgid "Sitewide settings for ODP, Yahoo! Directory and archiving"
 msgstr ""
 
-#: multi-keyword-statistics.php:1465
+#: multi-keyword-statistics.php:1565
 msgid "don't use information from ODP"
 msgstr ""
 
-#: multi-keyword-statistics.php:1466
+#: multi-keyword-statistics.php:1566
 msgid "don't use information from Yahoo! Directory"
 msgstr ""
 
-#: multi-keyword-statistics.php:1467
+#: multi-keyword-statistics.php:1567
 msgid "prevent archiving on archive.org and search engines"
 msgstr ""
 
-#: multi-keyword-statistics.php:1468
+#: multi-keyword-statistics.php:1568
 msgid ""
 "These settings have infuence on sitewide robots meta data (if checked noodp, "
 "noydir or noarchive will be used)."
 msgstr ""
 
-#: multi-keyword-statistics.php:1420
+#: multi-keyword-statistics.php:1520
 msgid ""
 "The settings below are used to configure which meta informations (tag) "
 "should be served by your blog. You can individually switch off or on "
@@ -459,37 +459,37 @@ msgid ""
 "want to generate multiple tags of one type."
 msgstr ""
 
-#: multi-keyword-statistics.php:1421
+#: multi-keyword-statistics.php:1521
 msgid "Meta tag configuration"
 msgstr ""
 
-#: multi-keyword-statistics.php:1423
+#: multi-keyword-statistics.php:1523
 msgid "Serve title tag"
 msgstr ""
 
-#: multi-keyword-statistics.php:1426
+#: multi-keyword-statistics.php:1526
 msgid ""
 "If you don't want to let the plugin serve the page title-tag, you can "
 "deactivate this option. In this case the title generated by WordPress or "
 "another plugin will stay in the HTML code of each page."
 msgstr ""
 
-#: multi-keyword-statistics.php:1430
+#: multi-keyword-statistics.php:1530
 msgid "Serve meta informations for"
 msgstr ""
 
-#: multi-keyword-statistics.php:1432
+#: multi-keyword-statistics.php:1532
 msgid "robots"
 msgstr ""
 
-#: multi-keyword-statistics.php:1433
+#: multi-keyword-statistics.php:1533
 msgid ""
 "If you want to use a robots.txt file to control robots you can uncheck this "
 "option. After that no robots meta will be embedded into the pages of your "
 "blog."
 msgstr ""
 
-#: multi-keyword-statistics.php:1435
+#: multi-keyword-statistics.php:1535
 msgid ""
 "Switch this off if you don't want your blog to serve the keywords generated "
 "automatic by the plugins Multi Keyword Statistics or your custom set of keywords "
@@ -497,19 +497,19 @@ msgid ""
 "meta section on all kinds of content aggregations."
 msgstr ""
 
-#: multi-keyword-statistics.php:1436
+#: multi-keyword-statistics.php:1536
 msgid "description"
 msgstr ""
 
-#: multi-keyword-statistics.php:1437
+#: multi-keyword-statistics.php:1537
 msgid "Same as with the keywords option described before."
 msgstr ""
 
-#: multi-keyword-statistics.php:1438
+#: multi-keyword-statistics.php:1538
 msgid "canonical"
 msgstr ""
 
-#: multi-keyword-statistics.php:1439
+#: multi-keyword-statistics.php:1539
 msgid ""
 "Don' let the plugin serve the canonical urls at any page served by the blog "
 "- including the various content aggregations - if this is off. In this case "
@@ -518,11 +518,11 @@ msgid ""
 "another plugin doing this."
 msgstr ""
 
-#: multi-keyword-statistics.php:1443
+#: multi-keyword-statistics.php:1543
 msgid "Don't serve any meta information"
 msgstr ""
 
-#: multi-keyword-statistics.php:1446
+#: multi-keyword-statistics.php:1546
 msgid ""
 "This option overwrites the ones above so if you activate it no metadata will "
 "be served. If you are using other plugins for adding meta informations you "
@@ -530,11 +530,11 @@ msgid ""
 "your blog. The plugin can still be used to check keyword densities."
 msgstr ""
 
-#: multi-keyword-statistics.php:1450
+#: multi-keyword-statistics.php:1550
 msgid "Activate testmode"
 msgstr ""
 
-#: multi-keyword-statistics.php:1453
+#: multi-keyword-statistics.php:1553
 msgid ""
 "If activated the meta informations are served within a HTML comment. Search "
 "engines ignore these informations but while testing the plugins output you "
@@ -552,7 +552,7 @@ msgid ""
 "can be found at "
 msgstr ""
 
-#: multi-keyword-statistics.php:1614
+#: multi-keyword-statistics.php:1615
 msgid "Default language"
 msgstr ""
 
