@@ -3,7 +3,7 @@
 Plugin Name: Multi Keyword Statistics
 Plugin URI: http://111waystomakemoney.com/multi-keyword-statistics/
 Description: For using the plugin, read the <a href="http://111waystomakemoney.com/multi-keyword-statistics/" title="Multi Keyword Statistics">Multi Keyword Statistics Instruction Page</a> .The multi-keyword-statistics-Plugin checks the content of a post or a page for <i>keyword-density</i> (single words and optionally 2- and 3-word phrases; for each the 1-10 most commonly used can be displayed). It can update its informations <i>automatically while the author is writing his content</i> in a variable interval (every 1-10 seconds) or manually by clicking on a button. The script comes with english and german <i>stopwords</i>, which optionally can be filtered out before calculating the keyword-densities. Moreover the commonest keywords are extracted in a list as a meta-keyword suggestion. Based on this list a description can be created and automatically set.
-Version: 4.7.14
+Version: 4.7.15
 Author: akshara
 Author URI: http://www.111waystomakemoney.com/
 */
